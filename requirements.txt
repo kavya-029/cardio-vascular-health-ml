@@ -1,8 +1,6 @@
-requirements used:
 streamlit
+scikit-learn
 joblib
 pandas
-numpy
-scikit-learn
 matplotlib
-seaborn
+numpy
