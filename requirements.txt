@@ -1,4 +1,6 @@
 requirements used:
+streamlit
+joblib
 pandas
 numpy
 scikit-learn
